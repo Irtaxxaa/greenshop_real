@@ -1,0 +1,71 @@
+.header{
+    margin-top: 52px;
+}
+
+.text{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.general{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.Username{
+    margin-top: 10px; 
+    width: 300px;
+    height: 40px;
+    padding-left: 14px;
+}
+
+.email{
+    margin-top: 10px; 
+    width: 300px;
+    height: 40px;
+    padding-left: 14px;
+}
+
+.Password{
+    margin-top: 10px; 
+    width: 300px;
+    height: 40px;
+    padding-left: 14px;
+}
+
+.Password2{
+    margin-top: 10px; 
+    width: 300px;
+    height: 40px;
+    padding-left: 14px;
+}
+
+.but{
+    font-size: 20px;
+     margin-top: 41px;
+      width: 300px;
+       height: 45px;
+        background-color: #46A358
+}
+
+.text2{
+    margin-top: 36px;
+}
+
+.w_google{
+    font-size: 20px;
+     margin-top: 41px;
+      width: 300px;
+       height: 40px
+}
+
+.w_facebook{
+    font-size: 20px;
+     margin-top: 41px;
+      width: 300px;
+       height: 40px
+}
+
+footer{
+    width: 100%; background-color: #46A358; margin-top: 40px;
+}
